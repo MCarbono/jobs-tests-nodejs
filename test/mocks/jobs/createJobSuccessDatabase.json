@@ -1,0 +1,12 @@
+{
+  "job": {
+    "status": "pending",
+    "_id": "61884d27a9d33c1ce8f94fe1",
+    "company": "apple",
+    "position": "front end developer",
+    "createdBy": "618847fe00432441e0676c40",
+    "createdAt": "2021-11-07T22:03:19.872Z",
+    "updatedAt": "2021-11-07T22:03:19.872Z",
+    "__v": 0
+  }
+}
